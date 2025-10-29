@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header h1 {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header p {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: turquoise;
+    font-family: sans-serif
+}
+
+nav a {
+    color: white;
+}
+
+.container{
+    display: flex;
+    gap: 2rem;
+    height: 700px;
+}
+
+.kartu {
+    width: 600px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 4px 7px rgba(0, 0, 0, 1);
+}
+
+.kartu h2{
+
+}
+
+footer{
+     background-color: blue;
+     color: white;
+     text-align: center;
+     padding: 8px; 
+     
+}

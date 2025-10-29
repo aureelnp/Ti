@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    float: left;
+    width: 100%;
+    background-color: orangered;
+    margin: 0;
+    padding: 0;
+
+}
+header ul{
+    list-style: none;
+    
+}
+#nav1 {
+
+}
+
+#a1 {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: sans-serif;
+    float: right;
+}
